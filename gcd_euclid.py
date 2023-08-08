@@ -9,3 +9,8 @@ def solution(a, b):
 
 
 solution(80, 50)
+
+def solution_2(a, b):
+    return solution(b, a%b) if a%b else abs(b)
+
+print(f'gcd = {solution_2(80, 5)}')
