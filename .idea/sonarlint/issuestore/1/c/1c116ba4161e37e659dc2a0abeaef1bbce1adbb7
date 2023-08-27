@@ -1,0 +1,4 @@
+
+xpython:S117"ZRename this local variable "valueDict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş¯®8¹Ü¥„Ÿ1
+|python:S117"YRename this local variable "nonlocaL" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¸Œ»øÿÿÿÿ8¹Ü¥„Ÿ1
+Ppython:S1481",Remove the unused local variable "nonlocaL".(Í¸Œ»øÿÿÿÿ8ºÜ¥„Ÿ1
